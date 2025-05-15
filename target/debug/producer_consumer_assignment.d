@@ -1,0 +1,1 @@
+/workspaces/rustprogramming/threadpool_assignment/target/debug/producer_consumer_assignment: /workspaces/rustprogramming/threadpool_assignment/src/main.rs
